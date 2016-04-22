@@ -73,6 +73,19 @@ sudo update-alternatives --install /usr/bin/eclipse eclipse /opt/eclipse/eclipse
      
 ##### [Installing nodejs](https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-linux-distributions).
 
-##### [Installing java]()
+[Installing various packages into unbuntu](https://github.com/bhochhi/howto-guide/wiki/command-line-installation-of-various-packages-in-ubuntu)
+
+[Linux Directory Map](https://github.com/bhochhi/howto-guide/wiki/Linux-Directory)
+
+[Installing oracle java](http://askubuntu.com/questions/521145/how-to-install-oracle-java-on-ubuntu-14-04)
+
 
 #####[Where are package installed](http://www.howtogeek.com/howto/ubuntu/see-where-a-package-is-installed-on-ubuntu/)
+
+[Directory structure Explained](https://help.ubuntu.com/community/LinuxFilesystemTreeOverview)
+
+[Linux Filesystem Hierarchy](http://tldp.org/LDP/Linux-Filesystem-Hierarchy/html/)
+
+[Directory Map](http://blog.danyll.com/linux-directory-map)
+
+![Directory Map](https://github.com/bhochhi/howto-guide/blob/master/BlpRb.png)
