@@ -75,8 +75,6 @@ sudo update-alternatives --install /usr/bin/eclipse eclipse /opt/eclipse/eclipse
 
 [Installing various packages into unbuntu](https://github.com/bhochhi/howto-guide/wiki/command-line-installation-of-various-packages-in-ubuntu)
 
-[Linux Directory Map](https://github.com/bhochhi/howto-guide/wiki/Linux-Directory)
-
 [Installing oracle java](http://askubuntu.com/questions/521145/how-to-install-oracle-java-on-ubuntu-14-04)
 
 
@@ -89,3 +87,6 @@ sudo update-alternatives --install /usr/bin/eclipse eclipse /opt/eclipse/eclipse
 [Directory Map](http://blog.danyll.com/linux-directory-map)
 
 ![Directory Map](https://github.com/bhochhi/howto-guide/blob/master/BlpRb.png)
+
+[Linux Directory Map](https://github.com/bhochhi/howto-guide/wiki/Linux-Directory)
+
