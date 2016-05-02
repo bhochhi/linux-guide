@@ -70,7 +70,9 @@ or use update-alternatives
 ```
 sudo update-alternatives --install /usr/bin/eclipse eclipse /opt/eclipse/eclipse
 ```
-     
+
+[Setting your environment variables](https://help.ubuntu.com/community/EnvironmentVariables#Persistent_environment_variables)
+
 [Installing nodejs](https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-linux-distributions).
 
 [Installing various packages into unbuntu](https://github.com/bhochhi/howto-guide/wiki/command-line-installation-of-various-packages-in-ubuntu)
