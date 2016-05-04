@@ -16,6 +16,16 @@ To install: sudo apt-get install xclip
 ---
 
 
+**Add symbolic link**
+```
+ sudo ln -s <src-path> <dest-path>
+```
+
+**Remove symbolic link**
+```
+ rm <dest-path>
+```
+
 
 ##### Search packages
 ```apt-cache policy <package-name>```
