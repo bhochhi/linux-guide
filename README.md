@@ -1,6 +1,8 @@
 [Learncodethehardway](http://cli.learncodethehardway.org/book/)
 ---
 
+[showing and monitoring processes](http://www.cyberciti.biz/faq/show-all-running-processes-in-linux/)
+
 xclip for copying into clipboard
 ---
 To install: sudo apt-get install xclip
