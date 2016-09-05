@@ -17,6 +17,11 @@ To install: sudo apt-get install xclip
 [how to use update-alternatives]()
 ---
 
+**Add alias for cd to folder**
+```
+alias shortcutname="cd /c/target/directory" 
+```
+add the command on your .bashrc. Next time you can just run commannd ```shortcutname``` to change the directory to c/target/directory.
 
 **Add symbolic link**
 ```
